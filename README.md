@@ -123,7 +123,7 @@ deepspeed
 --gradient_checkpointing 
 ```
 
-## Reference
+## Reference to OpenRLHF
 ```
 @article{hu2024openrlhf,
   title={OpenRLHF: An Easy-to-use, Scalable and High-performance RLHF Framework},
